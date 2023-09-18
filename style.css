@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+span, a {
+    display: inline-block;
+}
+img {
+    height: auto;
+    max-width: 100%;
+}
+.all {
+    width: 50%;
+    margin: auto;
+    margin-top: 250px; 
+    position: relative;
+    border: 2px solid black;
+    padding: 50px 20px;
+}
+.img {
+    border-radius: 60%;
+    width: 10%;
+    position: absolute;
+    right: 95%;
+    bottom: 88%;
+}
+.pi {
+    color: silver;
+    font-size: 12px;
+}
+.pp {
+    width: 500px;
+    font-size: 20px;
+}
+.hh {
+    margin-top: 10px;
+}
+.pp {
+    margin-top: 10px;
+}
+.btn {
+    margin-top: 12px;
+    background-color: rgb(216, 112, 112);
+    border: 1px solid palevioletred;
+    border-radius: 15px;
+    font-size: 18px;
+}
+.pl {
+    font-size: 15px;
+}
